@@ -1,0 +1,22 @@
+Learn MERN
+
+
+mlab.com
+connection string:
+mongodb://<dbuser>:<dbpassword>@ds117422.mlab.com:17422/brett-mern
+
+{
+    "_id": "brett-mern.brett-mern-user",
+    "user": "brett-mern-user",
+    "db": "brett-mern",
+    "roles": [
+        {
+            "role": "dbOwner",
+            "db": "brett-mern"
+        }
+    ]
+}
+
+JK4E8z8@z
+
+npm run server
